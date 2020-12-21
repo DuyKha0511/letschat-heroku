@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyKha0511/letschat-heroku.git"
+  }
   "author": "",
   "license": "ISC",
   "dependencies": {
