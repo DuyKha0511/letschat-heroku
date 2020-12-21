@@ -158,8 +158,8 @@ io.on('connection', function (socket) {
   });
 });
 
-http.listen(process.env.PORT || 3070, function () {
-  console.log('listening on *:', this.address().port, app.settings.env);
+http.listen(port, function () {
+  console.log('listening on *:' + port, this.address().port, app.settings.env);
 
 });
 
