@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DuyKha0511/letschat-heroku.git"
-  }
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
